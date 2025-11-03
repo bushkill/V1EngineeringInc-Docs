@@ -1328,7 +1328,7 @@ Making some moves with the [Jackpot CNC Controller](../electronics/jackpot.md/#o
 
 #### Belt Calibration
 
-The first calibration you should run is a belt calibration. The GT2 belts actually very in pitch by a little bit. On smaller machines you might not even notice, on a full sheet machine it can show up more. Luckily it is a simple test and you only need to do it, on initial setup or if you change your belts. Over 2400mm it can vary up to +-6mm, or more rarely it will be perfect.
+The first calibration you should run is a belt calibration. The GT2 belts actually vary in pitch by a little bit. On smaller machines you might not even notice, on a full sheet machine it can show up more. Luckily it is a simple test and you only need to do it, on initial setup or if you change your belts. Over 2400mm it can vary up to +-6mm, or more rarely it will be perfect.
 
 You just need to mark a spot near the closest position on your table, move a know distance, and mark another point at the furthest point of your table. With this information you can change your steps per millimeter to match your belts. You should only need to do this on one axis, your longest for the most accuracy, and it will apply to both X and Y, provided you are using the same belts on both.
 
